@@ -11,6 +11,8 @@ namespace ZahlenPrüfung
 
     static void Main(string[] args)
     {
+      Console.Title = "Zahlen sortieren";
+
       double z1, z2, z3;
       double größte =0, mittel=0, kleinste=0;
 
